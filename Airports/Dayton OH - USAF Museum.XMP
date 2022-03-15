@@ -6,11 +6,11 @@
     xmlns:Iptc4xmpCore="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/"
     xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/"
     xmlns:photomechanic="http://ns.camerabits.com/photomechanic/1.0/"
-   photoshop:City="Charlotte"
-   photoshop:State="North Carolina"
+   photoshop:City="Dayton"
+   photoshop:State="Ohio"
    photoshop:Country="United States of America"
    Iptc4xmpCore:CountryCode="USA"
-   Iptc4xmpCore:Location="Charlotte Douglas Intl"
+   Iptc4xmpCore:Location="National Museum of the United States Air Force"
    photomechanic:ColorClassEval="0"
    photomechanic:ColorClassApply="False"
    photomechanic:RatingEval="0"
@@ -21,24 +21,25 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>CLT</rdf:li>
-     <rdf:li>KCLT</rdf:li>
-     <rdf:li>Charlotte Douglas International Airport</rdf:li>
+     <rdf:li>USAF Museum</rdf:li>
+     <rdf:li>US Air Force Museum</rdf:li>
+     <rdf:li>NMUSAF</rdf:li>
+     <rdf:li>National Museum of the U.S. Air Force</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <Iptc4xmpExt:LocationCreated>
     <rdf:Bag>
      <rdf:li>
       <rdf:Description
-       Iptc4xmpExt:Sublocation="Charlotte Douglas Intl"
-       Iptc4xmpExt:City="Charlotte"
-       Iptc4xmpExt:ProvinceState="North Carolina"
+       Iptc4xmpExt:Sublocation="National Museum of the United States Air Force"
+       Iptc4xmpExt:City="Dayton"
+       Iptc4xmpExt:ProvinceState="Ohio"
        Iptc4xmpExt:CountryName="United States of America"
        Iptc4xmpExt:CountryCode="USA"
        Iptc4xmpExt:WorldRegion="">
       <Iptc4xmpExt:LocationId>
        <rdf:Bag>
-        <rdf:li>KCLT</rdf:li>
+        <rdf:li>KFFO</rdf:li>
        </rdf:Bag>
       </Iptc4xmpExt:LocationId>
       </rdf:Description>

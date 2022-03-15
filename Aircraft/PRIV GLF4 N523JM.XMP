@@ -3,14 +3,10 @@
   <rdf:Description rdf:about=""
     xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:Iptc4xmpCore="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/"
     xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/"
     xmlns:photomechanic="http://ns.camerabits.com/photomechanic/1.0/"
-   photoshop:City="Charlotte"
-   photoshop:State="North Carolina"
-   photoshop:Country="United States of America"
-   Iptc4xmpCore:CountryCode="USA"
-   Iptc4xmpCore:Location="Charlotte Douglas Intl"
+   photoshop:Category="Gulfstream G450"
+   photoshop:Headline="{day0}{monthname3:0:UC}{year2} {locationidtaken} | {featuredorgname} | {category} | {persons}"
    photomechanic:ColorClassEval="0"
    photomechanic:ColorClassApply="False"
    photomechanic:RatingEval="0"
@@ -19,42 +15,44 @@
    photomechanic:TagApply="False"
    photomechanic:CaptionMergeStyle="1"
    photomechanic:ApplyDateType="2">
+   <photoshop:SupplementalCategories>
+    <rdf:Bag>
+     <rdf:li>4150</rdf:li>
+    </rdf:Bag>
+   </photoshop:SupplementalCategories>
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>CLT</rdf:li>
-     <rdf:li>KCLT</rdf:li>
-     <rdf:li>Charlotte Douglas International Airport</rdf:li>
+     <rdf:li>Gulfstream</rdf:li>
+     <rdf:li>Gulfstream IV</rdf:li>
+     <rdf:li>GLF4</rdf:li>
+     <rdf:li>business jet</rdf:li>
     </rdf:Bag>
    </dc:subject>
-   <Iptc4xmpExt:LocationCreated>
+   <dc:description>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">{featuredorgname}&#xA;{category}&#xA;{persons} (cn {suppcat1})&#xA;&#xA;{location}, {city}, {state}&#xA;{monthname} {day}, {year4}</rdf:li>
+    </rdf:Alt>
+   </dc:description>
+   <Iptc4xmpExt:PersonInImage>
     <rdf:Bag>
-     <rdf:li>
-      <rdf:Description
-       Iptc4xmpExt:Sublocation="Charlotte Douglas Intl"
-       Iptc4xmpExt:City="Charlotte"
-       Iptc4xmpExt:ProvinceState="North Carolina"
-       Iptc4xmpExt:CountryName="United States of America"
-       Iptc4xmpExt:CountryCode="USA"
-       Iptc4xmpExt:WorldRegion="">
-      <Iptc4xmpExt:LocationId>
-       <rdf:Bag>
-        <rdf:li>KCLT</rdf:li>
-       </rdf:Bag>
-      </Iptc4xmpExt:LocationId>
-      </rdf:Description>
-     </rdf:li>
+     <rdf:li>N523JM</rdf:li>
     </rdf:Bag>
-   </Iptc4xmpExt:LocationCreated>
+   </Iptc4xmpExt:PersonInImage>
+   <Iptc4xmpExt:OrganisationInImageName>
+    <rdf:Bag>
+     <rdf:li>Private (JMAC Air)</rdf:li>
+    </rdf:Bag>
+   </Iptc4xmpExt:OrganisationInImageName>
    <photomechanic:FieldsToApply>
     <rdf:Bag>
      <rdf:li>0x00</rdf:li>
-     <rdf:li>0x25a</rdf:li>
-     <rdf:li>0x25f</rdf:li>
-     <rdf:li>0x265</rdf:li>
-     <rdf:li>0x264</rdf:li>
+     <rdf:li>0x20f</rdf:li>
+     <rdf:li>0x1214</rdf:li>
      <rdf:li>0x219</rdf:li>
-     <rdf:li>0x25c</rdf:li>
-     <rdf:li>0x800f</rdf:li>
+     <rdf:li>0x278</rdf:li>
+     <rdf:li>0x269</rdf:li>
+     <rdf:li>0x800e</rdf:li>
+     <rdf:li>0x8011</rdf:li>
     </rdf:Bag>
    </photomechanic:FieldsToApply>
    <photomechanic:FieldsToMerge>

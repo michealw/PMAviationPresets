@@ -3,14 +3,9 @@
   <rdf:Description rdf:about=""
     xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:Iptc4xmpCore="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/"
     xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/"
     xmlns:photomechanic="http://ns.camerabits.com/photomechanic/1.0/"
-   photoshop:City="Charlotte"
-   photoshop:State="North Carolina"
-   photoshop:Country="United States of America"
-   Iptc4xmpCore:CountryCode="USA"
-   Iptc4xmpCore:Location="Charlotte Douglas Intl"
+   photoshop:Category="Boeing 757-24APF"
    photomechanic:ColorClassEval="0"
    photomechanic:ColorClassApply="False"
    photomechanic:RatingEval="0"
@@ -19,42 +14,50 @@
    photomechanic:TagApply="False"
    photomechanic:CaptionMergeStyle="1"
    photomechanic:ApplyDateType="2">
+   <photoshop:SupplementalCategories>
+    <rdf:Bag>
+     <rdf:li>28845</rdf:li>
+     <rdf:li>882</rdf:li>
+    </rdf:Bag>
+   </photoshop:SupplementalCategories>
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>CLT</rdf:li>
-     <rdf:li>KCLT</rdf:li>
-     <rdf:li>Charlotte Douglas International Airport</rdf:li>
+     <rdf:li>5X</rdf:li>
+     <rdf:li>UPS</rdf:li>
+     <rdf:li>UPS Airlines</rdf:li>
+     <rdf:li>Boeing</rdf:li>
+     <rdf:li>757</rdf:li>
+     <rdf:li>Boeing 757</rdf:li>
+     <rdf:li>757-200</rdf:li>
+     <rdf:li>Boeing 757-200</rdf:li>
+     <rdf:li>B752</rdf:li>
     </rdf:Bag>
    </dc:subject>
-   <Iptc4xmpExt:LocationCreated>
+   <Iptc4xmpExt:PersonInImage>
     <rdf:Bag>
-     <rdf:li>
-      <rdf:Description
-       Iptc4xmpExt:Sublocation="Charlotte Douglas Intl"
-       Iptc4xmpExt:City="Charlotte"
-       Iptc4xmpExt:ProvinceState="North Carolina"
-       Iptc4xmpExt:CountryName="United States of America"
-       Iptc4xmpExt:CountryCode="USA"
-       Iptc4xmpExt:WorldRegion="">
-      <Iptc4xmpExt:LocationId>
-       <rdf:Bag>
-        <rdf:li>KCLT</rdf:li>
-       </rdf:Bag>
-      </Iptc4xmpExt:LocationId>
-      </rdf:Description>
-     </rdf:li>
+     <rdf:li>N475UP</rdf:li>
     </rdf:Bag>
-   </Iptc4xmpExt:LocationCreated>
+   </Iptc4xmpExt:PersonInImage>
+   <Iptc4xmpExt:OrganisationInImageName>
+    <rdf:Bag>
+     <rdf:li>UPS Airlines</rdf:li>
+    </rdf:Bag>
+   </Iptc4xmpExt:OrganisationInImageName>
+   <Iptc4xmpExt:OrganisationInImageCode>
+    <rdf:Bag>
+     <rdf:li>UPS</rdf:li>
+    </rdf:Bag>
+   </Iptc4xmpExt:OrganisationInImageCode>
    <photomechanic:FieldsToApply>
     <rdf:Bag>
      <rdf:li>0x00</rdf:li>
-     <rdf:li>0x25a</rdf:li>
-     <rdf:li>0x25f</rdf:li>
-     <rdf:li>0x265</rdf:li>
-     <rdf:li>0x264</rdf:li>
+     <rdf:li>0x20f</rdf:li>
+     <rdf:li>0x1214</rdf:li>
+     <rdf:li>0x2214</rdf:li>
      <rdf:li>0x219</rdf:li>
-     <rdf:li>0x25c</rdf:li>
-     <rdf:li>0x800f</rdf:li>
+     <rdf:li>0x800e</rdf:li>
+     <rdf:li>0x8011</rdf:li>
+     <rdf:li>0x8012</rdf:li>
     </rdf:Bag>
    </photomechanic:FieldsToApply>
    <photomechanic:FieldsToMerge>
