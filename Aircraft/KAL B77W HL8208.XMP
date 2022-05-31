@@ -17,8 +17,8 @@
    photomechanic:ApplyDateType="2">
    <photoshop:SupplementalCategories>
     <rdf:Bag>
-     <rdf:li>37646</rdf:li>
-     <rdf:li>875</rdf:li>
+     <rdf:li>37645</rdf:li>
+     <rdf:li>867</rdf:li>
     </rdf:Bag>
    </photoshop:SupplementalCategories>
    <dc:subject>
@@ -41,7 +41,7 @@
    </dc:description>
    <Iptc4xmpExt:PersonInImage>
     <rdf:Bag>
-     <rdf:li>HL8209</rdf:li>
+     <rdf:li>HL8208</rdf:li>
     </rdf:Bag>
    </Iptc4xmpExt:PersonInImage>
    <Iptc4xmpExt:OrganisationInImageName>

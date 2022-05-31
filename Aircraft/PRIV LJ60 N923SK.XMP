@@ -5,7 +5,7 @@
     xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/"
     xmlns:photomechanic="http://ns.camerabits.com/photomechanic/1.0/"
-   photoshop:Category="Boeing 777-3B5(ER)"
+   photoshop:Category="Learjet 60"
    photoshop:Headline="{day0}{monthname3:0:UC}{year2} {locationidtaken} | {featuredorgname} | {category} | {persons}"
    photomechanic:ColorClassEval="0"
    photomechanic:ColorClassApply="False"
@@ -17,41 +17,35 @@
    photomechanic:ApplyDateType="2">
    <photoshop:SupplementalCategories>
     <rdf:Bag>
-     <rdf:li>37646</rdf:li>
-     <rdf:li>875</rdf:li>
+     <rdf:li>60-050</rdf:li>
     </rdf:Bag>
    </photoshop:SupplementalCategories>
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>Boeing</rdf:li>
-     <rdf:li>777</rdf:li>
-     <rdf:li>Boeing 777</rdf:li>
-     <rdf:li>777-300ER</rdf:li>
-     <rdf:li>Boeing 777-300ER</rdf:li>
-     <rdf:li>B77W</rdf:li>
-     <rdf:li>KE</rdf:li>
-     <rdf:li>KAL</rdf:li>
-     <rdf:li>Korean Air</rdf:li>
+     <rdf:li>Learjet</rdf:li>
+     <rdf:li>Learjet 60</rdf:li>
+     <rdf:li>LJ60</rdf:li>
+     <rdf:li>business jet</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <dc:description>
     <rdf:Alt>
-     <rdf:li xml:lang="x-default">{featuredorgname}&#xA;{category}&#xA;{persons} (cn {suppcat1} / ln {suppcat2})&#xA;&#xA;{location}, {city}, {state}&#xA;{monthname} {day}, {year4}</rdf:li>
+     <rdf:li xml:lang="x-default">{featuredorgname}&#xA;{category}&#xA;{persons} (cn {suppcat1})&#xA;&#xA;{location}, {city}, {state}&#xA;{monthname} {day}, {year4}</rdf:li>
     </rdf:Alt>
    </dc:description>
    <Iptc4xmpExt:PersonInImage>
     <rdf:Bag>
-     <rdf:li>HL8209</rdf:li>
+     <rdf:li>N923SK</rdf:li>
     </rdf:Bag>
    </Iptc4xmpExt:PersonInImage>
    <Iptc4xmpExt:OrganisationInImageName>
     <rdf:Bag>
-     <rdf:li>Korean Air</rdf:li>
+     <rdf:li>Private</rdf:li>
     </rdf:Bag>
    </Iptc4xmpExt:OrganisationInImageName>
    <Iptc4xmpExt:OrganisationInImageCode>
     <rdf:Bag>
-     <rdf:li>KAL</rdf:li>
+     <rdf:li>PRIV</rdf:li>
     </rdf:Bag>
    </Iptc4xmpExt:OrganisationInImageCode>
    <photomechanic:FieldsToApply>
@@ -59,7 +53,6 @@
      <rdf:li>0x00</rdf:li>
      <rdf:li>0x20f</rdf:li>
      <rdf:li>0x1214</rdf:li>
-     <rdf:li>0x2214</rdf:li>
      <rdf:li>0x219</rdf:li>
      <rdf:li>0x278</rdf:li>
      <rdf:li>0x269</rdf:li>
