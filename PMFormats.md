@@ -1,5 +1,6 @@
 ## Description
-```{featuredorgname}
+```
+{featuredorgname}
 {category}
 {persons} (cn {suppcat1})
 
